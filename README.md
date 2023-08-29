@@ -1,11 +1,8 @@
 # Image-Segmentation-MRI
 
-
-**
-
 *System Specifications:*
-Hardware: NVIDIA GeForce RTX 2080 Ti GPU, Intel Core i5 CPU, 16 GB RAM
-Software: Ubuntu 20.04, Python 3.8, TensorFlow 2.4, CUDA 11.0
+1. Hardware: NVIDIA GeForce RTX 2080 Ti GPU, Intel Core i5 CPU, 16 GB RAM
+2. Software: Ubuntu 20.04, Python 3.8, TensorFlow 2.4, CUDA 11.0
 
 *Algorithm's Logic or Model Specifics:*
 1. Load the image
