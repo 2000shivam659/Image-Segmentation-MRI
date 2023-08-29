@@ -1,1 +1,13 @@
+numpy==1.21.0
+pandas==1.3.0
+tensorflow==2.5.0
+opencv-python==4.5.3.56
 
+Different libraries are:
+1. os
+2. Numpy
+3. Nibabel
+4. Matplotlib
+5. Scikit-learn
+6. Tensorflow
+7. Niwidgets
